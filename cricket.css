@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background: rgb(0, 0, 0, 0.7) url(images/background\ image);
+    overflow: hidden;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.choice-button{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(182, 236, 128);
+    cursor: pointer;
+    border: none;
+}
+
+.choice-image{
+    height: 80px;
+}
